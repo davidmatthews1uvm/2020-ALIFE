@@ -1,0 +1,6 @@
+SHELL = /bin/sh
+PATH  = /usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+*/5 * * * * /Users/twitchplaysrobotics/Dropbox/JoshBongard/0_Code/Master_Vader_1_from_2019_02_11_to____________0916758/TPR_3/restartScript.sh
+*/5 * * * * /Users/twitchplaysrobotics/Dropbox/JoshBongard/0_Code/Master_Vader_1_from_2019_02_11_to____________0916758/scripts/lockBotsScript.sh
+*/5 * * * * /Users/twitchplaysrobotics/Dropbox/JoshBongard/0_Code/Master_Vader_1_from_2019_02_11_to____________0916758/scripts/lockEnvsScript.sh

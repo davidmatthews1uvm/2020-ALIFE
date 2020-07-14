@@ -1,0 +1,5 @@
+from database import DATABASE
+
+db = DATABASE()
+
+db.Add_User(self, username):

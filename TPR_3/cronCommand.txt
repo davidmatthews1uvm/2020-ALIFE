@@ -1,0 +1,2 @@
+* * * * * /Users/jbongard/Dropbox/JoshBongard/0_Code/TPR_3/TPR_3/restartScript.sh > /dev/ttys001
+

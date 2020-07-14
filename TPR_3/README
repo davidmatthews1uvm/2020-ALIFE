@@ -1,0 +1,13 @@
+To run the current version of TPR:
+
+- python3 tpr3.py
+
+To run the new, modularized TPR from scratch:
+
+- python3 reset.py
+
+- python3 runForever.py
+
+To continue the new, modularized TPR using the existing data set:
+
+- python3 runForever.py
