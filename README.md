@@ -1,3 +1,31 @@
+# About
+Code base for: `Crowd grounding: finding semantic and behavioral alignment through human robot interaction.`
+
+## Citation
+```
+@article{doi:10.1162/isal\_a\_00317,
+author = {Matthews, David and Bongard, Josh},
+title = {Crowd grounding: finding semantic and behavioral alignment through human robot interaction.},
+journal = {Artificial Life Conference Proceedings},
+volume = {},
+number = {32},
+pages = {148-156},
+year = {2020},
+doi = {10.1162/isal\_a\_00317},
+
+URL = { 
+        https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00317
+    
+},
+eprint = { 
+        https://www.mitpressjournals.org/doi/pdf/10.1162/isal_a_00317
+    
+}
+}
+```
+
+## Analysis
+* Can be found in `ALIFE` and `analysis` folders
 
 ## Instructions for setting up and running TPR
 
